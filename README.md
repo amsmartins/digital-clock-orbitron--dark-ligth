@@ -1,34 +1,32 @@
 <h2 align="center">Relogio Digital Orbitron - Dark & Light Mode</h2>
-<p align="center">Projeto criado com finalidade de estudos sobre HTML, CSS e Javascript</p>
 
----
-
-#### :bookmark_tabs: Modelo
-![Digital Clock](https://user-images.githubusercontent.com/89283901/166851879-e8881793-6802-4f9b-856a-19f1f82a7092.gif)
+- Relogio Digital utilizando a fonte Orbitron e com Modo Noturno & Claro
+<br>
 
 
----
+## 🎞 Demonstração em Imagens
+![Relogio Digital Orbitron - dark ligth](https://user-images.githubusercontent.com/89283901/170890141-f096776d-7a2c-4cdd-85b1-07ea8614c6f4.jpg)
 
-#### :pushpin: Index de Conteúdo
 
-- [Frontend (HTML)](#zap-frontend)
-
-#### :round_pushpin: Frontend
-
+## 📍 Tecnicas utilizadas
 ```
  HTML
  CSS
- Javascript
+ JavaScript
 ```
 
-:small_red_triangle: [Voltar ao Modelo](#bookmark_tabs-modelo)
+## 💡 Projeto baseado no Tutorial: 
+https://www.youtube.com/watch?v=CP2V4tN8kYI
 
+
+<br><br>
+<hr>
+<div align="center">
 <a href="https://github.com/amsmartins">
 <img src="https://avatars.githubusercontent.com/u/89283901?v=4" width="150px;" alt="Image da AMSM" />
 </a> 
 </div>	
 <h4 align="center">
    Feito com 💙 by <a href="https://www.linkedin.com/in/amsmartins/" target="_blank">Anyla Martins</a>
-</h4><hr>
+</h4>
 
-## 🎞 Demonstração em Imagens
