@@ -12,6 +12,7 @@
 ```
  HTML
  CSS
+ JavaScript
 ```
 
 ### 💡 Projeto baseado no Tutorial: https://www.youtube.com/watch?v=CP2V4tN8kYI
