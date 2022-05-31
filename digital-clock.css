@@ -17,7 +17,6 @@ body{
 }
 
 .clock {
-    /* background: #131419; */
     height: 120px;
     width: 500px;
     line-height: 120px;
@@ -36,7 +35,6 @@ body{
  
 
 /*MODO CLARO*/
-
 button {
     height: 20px;
     width: 20px;
