@@ -1,11 +1,9 @@
 setInterval( () => {
     const clock = document.querySelector('.display')
 let time = new Date()
-// clock.textContent = time  ~~> HORA COMPLETA COM DADOS LOCAL
 let sec = time.getSeconds()
 let min = time.getMinutes()
 let hr = time.getHours()
-// alert(hr + "hr " + min + "min " + sec + "sec ") ~~> POPUP DE HORA CERTA
 let day = 'AM'
 
 if(hr > 12){
